@@ -1,0 +1,39 @@
+.header{
+   color:lightskyblue
+}
+#subject {color: blueviolet;
+}
+li{
+   color: blue;
+}
+li h4 {
+   color: violet;
+}
+.questiuon-1 {
+   color:chartreuse;
+}
+.questiuon-2 {
+   color: orange
+   ;
+}
+.questiuon-3 {
+   color:yellow;
+}
+.questiuon-4 {
+   color: black ;
+}
+span{
+   color: red;
+   }
+   
+   .grade{
+      color:springgreen;
+   }
+   .text + p {
+color: red;
+   } 
+   .well{
+      color: blue;
+   }
+  
+   
